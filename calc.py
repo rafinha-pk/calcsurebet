@@ -15,8 +15,6 @@ def arredondamento(x):
 
 # recebendo e atribuindo valores
 total = float(input("Digite o valor total: R$"))
-v1 = total/2
-v2 = v1
 g1 = float(input("Odd da casa 1: "))
 g2 = float(input("Odd da casa 2: "))
 sure = (100/g1) + (100/g2)
